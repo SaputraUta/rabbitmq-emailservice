@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq-emailservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaputraUta/rabbitmq-emailservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaputraUta/rabbitmq-emailservice/issues"
+  },
+  "homepage": "https://github.com/SaputraUta/rabbitmq-emailservice#readme",
+  "description": "",
+  "dependencies": {
+    "amqplib": "^0.10.8"
+  }
+}
